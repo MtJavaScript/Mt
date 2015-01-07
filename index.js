@@ -10,3 +10,4 @@ global.Mt = {
 		console.log(text || 'hi');
 	}
 };
+
